@@ -1,5 +1,5 @@
-runtime: php
-env: flex
+runtime: php81 
+env: standard
 
 runtime_config: 
   document_root: public
